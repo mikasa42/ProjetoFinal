@@ -1,0 +1,33 @@
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.deps.json
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.runtimeconfig.json
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.runtimeconfig.dev.json
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.dll
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.pdb
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.csprojAssemblyReference.cache
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.dll
+C:\Users\alunoct\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.pdb
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.deps.json
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.runtimeconfig.json
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.runtimeconfig.dev.json
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.dll
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.pdb
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.csprojAssemblyReference.cache
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.dll
+C:\Users\alunoct\Desktop\ProjetoTrio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.pdb
+D:\Projeto Final 2\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.deps.json
+D:\Projeto Final 2\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.runtimeconfig.json
+D:\Projeto Final 2\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.runtimeconfig.dev.json
+D:\Projeto Final 2\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.dll
+D:\Projeto Final 2\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.pdb
+D:\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.csprojAssemblyReference.cache
+D:\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+D:\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.AssemblyInfoInputs.cache
+D:\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.AssemblyInfo.cs
+D:\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.dll
+D:\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.pdb

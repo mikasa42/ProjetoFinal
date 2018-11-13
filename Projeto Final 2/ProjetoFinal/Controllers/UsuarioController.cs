@@ -22,13 +22,17 @@ namespace ProjetoFinal.Controllers
         {
             return View();
         }
+        public IActionResult Engorda()
+        {
+            return View();
+        }
 
-      //  public IActionResult PagUsuario(UsuarioModel usuario)
-     //   {
-            // return RedirectToAction("Login", "Usuario");
-     //       return View();
-     //   }
-             
+        //  public IActionResult PagUsuario(UsuarioModel usuario)
+        //   {
+        // return RedirectToAction("Login", "Usuario");
+        //       return View();
+        //   }
+
         public IActionResult Autenticar(UsuarioModel usuario)
         {
 

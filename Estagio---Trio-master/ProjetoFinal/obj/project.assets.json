@@ -13804,11 +13804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikaela\\Desktop\\Estagio---Trio-master\\ProjetoFinal\\ProjetoFinal.csproj",
+      "projectUniqueName": "C:\\Users\\mikaela\\Desktop\\ProjetoFinal\\Estagio---Trio-master\\ProjetoFinal\\ProjetoFinal.csproj",
       "projectName": "ProjetoFinal",
-      "projectPath": "C:\\Users\\mikaela\\Desktop\\Estagio---Trio-master\\ProjetoFinal\\ProjetoFinal.csproj",
+      "projectPath": "C:\\Users\\mikaela\\Desktop\\ProjetoFinal\\Estagio---Trio-master\\ProjetoFinal\\ProjetoFinal.csproj",
       "packagesPath": "C:\\Users\\mikaela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikaela\\Desktop\\Estagio---Trio-master\\ProjetoFinal\\obj\\",
+      "outputPath": "C:\\Users\\mikaela\\Desktop\\ProjetoFinal\\Estagio---Trio-master\\ProjetoFinal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

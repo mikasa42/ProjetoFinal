@@ -1,0 +1,59 @@
+﻿@model GlicemiaModel
+
+<h3>Registrar um Nivel glicemico</h3>
+
+@{
+    var vCpf = "";
+
+    var vNivel_glicemico = 0;
+    var vdata_cadastro = "yyyy-MM-dd";
+
+
+    try
+    {
+        vCpf = (@ViewBag.Registro.Cpf.ToString());
+        vdata_cadastro = DateTime.Parse(@ViewBag.Registro.data_cadastro.ToString()).ToString("yyyy-MM-dd");
+        vNivel_glicemico = int.Parse(@ViewBag.Registro.Nivel_glicemico.ToString());
+    }
+    catch { }
+}
+<form asp-controller="Glicemia" asp-action="Registrar">
+    <input type="hidden" asp-for="Cpf" value="@vCpf" />
+
+    <div class="form-group">
+        <label>Data:</label>
+        <input type="date" class="form-control" asp-for="data_cadastro" value="@vdata_cadastro">
+        <span asp-validation-for="data_cadastro" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Nivel glicemico:</label>
+        <input type="number" class="form-control" asp-for="Nivel_glicemico" value="@vNivel_glicemico">
+        <span asp-validation-for="Nivel_glicemico" class="text-danger"></span>
+    </div>
+
+ 
+    </div>
+
+    <div class="form-group">
+        <label>Conta:</label>
+        <select asp-for="Cpf" class="form-control">
+            @{
+                foreach (var item in (List<GlicemiaModel>)ViewBag.ListaGlicemia)
+                {
+                    if (item.Cpf.ToString() == vCpf.ToString())
+                    {
+                        <option selected value="@item.Cpf.ToString()">@item.Nome.ToString()</option>
+                    }
+                    else
+                    {
+                        <option value="@item.Cpf.ToString()">@item.Nome.ToString()</option>
+                    }
+                }
+            }
+        </select>
+    </div>
+
+
+    <button type="submit" class="btn btn-block btn-success">Registrar</button>
+</form>
